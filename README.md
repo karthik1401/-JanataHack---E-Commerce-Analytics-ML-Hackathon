@@ -9,4 +9,4 @@ Two files were provided:-
 
 Agenda is to predict gender given startTime, endTime and ProductList used by a customer. ProductList contains multiple products differentiated by a semicolon(;) and the hierarchy of a product differentiated by (/). 
 
-I have feature engineered the `train.csv` file data to `train_processed.csv` file which I have processed using the Jupyter notebook for a `Accuracy of 90%` on the training data. Due to submission not being on time, I cannot determing my score compared to others who had participated. 
+Feature engineered and tried RandomForestClassifier on the `train.csv` file data for a `Accuracy of 90%`.  
